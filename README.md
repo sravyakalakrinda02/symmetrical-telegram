@@ -1,7 +1,6 @@
 # Learn React with Codespaces 📝
 
 Welcome to your first Codespace running a popular UI framework called React! We've got everything fired up and running for you to explore React and Codespaces for the first time.
-
 A template for your project README.
 
 ## License
